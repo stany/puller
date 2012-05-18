@@ -36,3 +36,6 @@ Puller::Application.configure do
   #prepare the tests
   # tests for main page
 end
+
+
+#first test for index page
