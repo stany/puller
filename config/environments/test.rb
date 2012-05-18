@@ -34,4 +34,5 @@ Puller::Application.configure do
   config.active_support.deprecation = :stderr
 
   #prepare the tests
+  # tests for main page
 end
