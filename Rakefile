@@ -4,6 +4,7 @@
 # and there
 # one more
 # two more
+# three more
 
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
